@@ -30,11 +30,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eshanndev&show_icons=true&theme=radical" alt="GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=false" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eshanndev&theme=radical&hide_border=false" alt="GitHub streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshanndev&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Eshanndev&theme=radical" alt="GitHub trophies"/>
 </p>
 
 ---
